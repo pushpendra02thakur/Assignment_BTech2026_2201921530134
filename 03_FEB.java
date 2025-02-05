@@ -1,5 +1,4 @@
 // Class Definitions:
-
 // Student class:
 // Attributes:
 // name (String): The name of the student.
